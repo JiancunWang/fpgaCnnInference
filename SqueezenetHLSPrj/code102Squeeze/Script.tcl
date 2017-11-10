@@ -15,7 +15,7 @@ set iIndex 0
 
 #set prjName [lindex $argv 0] 
 #set codeName [lindex $argv 1]
-set codeName code102Int8Squ171107d
+set codeName code102Int8Squ171108d
 set codeBasePath code102Squeeze
 set prjName  ip$codeName
 set topFunction fpga_top 
